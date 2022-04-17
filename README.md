@@ -8,5 +8,5 @@
 <h3 style="text-align: center; color:#0400ff;font-family:monospace; "align="center">
 <span class="auto-type"></span>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Aspiring+Developer;UG+at+JIS+UNIVERSITY;Content+Creater;Beginner+at+SFML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4900&color=00F7F3&center=true&width=500&lines=Aspiring+Developer_;UG+at+JIS+UNIVERSITY_;Content+Creater_;Beginner+at+SFML_)](https://git.io/typing-svg)
 </h3>
