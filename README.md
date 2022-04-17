@@ -1,12 +1,6 @@
 
 
-GitHub profile custom config file 
 
-I'm Shreyos Ghosh
-
-=================
-
-var typed= new Typed(".auto-type",{ strings:\["Aspiring Developer","UG at JIS UNIVERSITY","Content Creater","Beginner at SFML"\], typeSpeed: 80, backSpeed: 60, loop: true })
 
 
 <!--
