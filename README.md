@@ -10,6 +10,12 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4900&color=00F7F3&center=true&width=500&lines=Aspiring+Developer_;UG+at+JIS+UNIVERSITY_;Content+Creater_;Beginner+at+SFML_)](https://git.io/typing-svg)
 </h3>
+<body>
+  <span>
+    <div align="left"><img src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="250" height="250">
+    </div>
+  </span>
+  <h4 align="right"><b>👨‍💻_About Me_</b></h4>
+</body>
 
-<div align="left"><img src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="250" height="250">
-</div>
+
