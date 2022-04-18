@@ -26,11 +26,14 @@
 <!--- adopted markdown --->
 
 
-- 🔭 I’m currently working on <img src="https://linksharing.samsungcloud.com/ccvhVKn4Uk90" width="21" height="21" href="https://github.com/Shreyosgit/Snake-Game"/>
+<li align="center">🔭 I’m currently working on <img src="https://linksharing.samsungcloud.com/ccvhVKn4Uk90" width="21" height="21" href="https://github.com/Shreyosgit/Snake-Game"</li>
 
-- 🌱 I’m currently learning **basic stuff**
+<li align="center">🌱 I’m currently learning **basic stuff**</li>
 
-- 📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="20" href="https:www.shreyosghosh279@gmail.com"/>
+<li align="center">📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="20" href="https:www.shreyosghosh279@gmail.com"</li>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
