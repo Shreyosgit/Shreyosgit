@@ -26,7 +26,7 @@
 <!--- adopted markdown --->
 
 
-<li align="center">🔭 I’m currently working on <img src="https://linksharing.samsungcloud.com/ccvhVKn4Uk90" width="21" height="21" href="https://github.com/Shreyosgit/Snake-Game"</li>
+<li align="center" align="justify">🔭 I’m currently working on <img src="https://linksharing.samsungcloud.com/ccvhVKn4Uk90" width="21" height="21" href="https://github.com/Shreyosgit/Snake-Game"</li>
 
 <li align="center">🌱 I’m currently learning **basic stuff**</li>
 
