@@ -26,7 +26,7 @@
 <!--- adopted markdown --->
 
 <br/><br/>
-<li align="center" align="justify">🔭 I’m currently working on <img src="https://media2.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=ecf05e471v857r946vfv4jlxq61s1f9uua2y9jqxlic9q7yq&rid=giphy.gif&ct=s" width="20" height="20" href="https://github.com/Shreyosgit/Snake-Game"</li>
+<li align="center" align="justify">🔭 I’m currently working on <img src="https://media2.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=ecf05e471v857r946vfv4jlxq61s1f9uua2y9jqxlic9q7yq&rid=giphy.gif&ct=s" width="20" height="20" href="https://github.com/Shreyosgit/Snake-Game"/></li>
 <br/>
 <li align="center">🌱 I’m currently learning **basic stuff**</li>
 <br/>
