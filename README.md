@@ -25,11 +25,11 @@
 <h3 align="center"><b><img src="https://media4.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47sg1h99p26v8wub6qpykho2i36l1622miyiar5vab&rid=giphy.gif&ct=s" alt="Coder Cat" width=25px height=25px/>_About Me_</b></h3>
 <!--- adopted markdown --->
 
-
-<li align="center" align="justify">🔭 I’m currently working on <img src="https://linksharing.samsungcloud.com/ccvhVKn4Uk90" width="21" height="21" href="https://github.com/Shreyosgit/Snake-Game"</li>
-
+<br/><br/>
+<li align="center" align="justify">🔭 I’m currently working on <img src="https://media2.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=ecf05e471v857r946vfv4jlxq61s1f9uua2y9jqxlic9q7yq&rid=giphy.gif&ct=s" width="20" height="20" href="https://github.com/Shreyosgit/Snake-Game"</li>
+<br/>
 <li align="center">🌱 I’m currently learning **basic stuff**</li>
-
+<br/>
 <li align="center">📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="20" href="https:www.shreyosghosh279@gmail.com"</li>
 <br/>
 <br/>
