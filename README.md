@@ -21,11 +21,11 @@
  <div><img align="left" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="300" height="300"/></div>
 
 </body>
-
+<br/>
 <h3 align="center"><b><img src="https://media4.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47sg1h99p26v8wub6qpykho2i36l1622miyiar5vab&rid=giphy.gif&ct=s" alt="Coder Cat" width=25px height=25px/>_About Me_</b></h3>
 <!--- adopted markdown --->
 
-<br/><br/>
+<br/>
 <li align="center" align="justify">🔭 I’m currently working on <img src="https://media2.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=ecf05e471v857r946vfv4jlxq61s1f9uua2y9jqxlic9q7yq&rid=giphy.gif&ct=s" width="20" height="20"/>
  <u><a href="https://github.com/Shreyosgit/Snake-Game">here</a></u>
 </li>
