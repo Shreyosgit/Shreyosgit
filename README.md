@@ -30,12 +30,12 @@
  <u><a href="https://github.com/Shreyosgit/Snake-Game">here</a></u>
 </li>
 <br/>
-<li align="center">🌱 I’m currently learning <<basic stuff>></li>
+<li align="center">🌱 I’m currently learning <basic stuff></li>
 <br/>
 <li align="center">📫 How to reach me
  <a href="mailto:shreyosghosh279@gmail.com">
          <img alt="Gmail" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"
-         width="18" height="18"></a></li>
+         width="18" height="17"></a></li>
 <br/>
 <br/>
 <br/>
