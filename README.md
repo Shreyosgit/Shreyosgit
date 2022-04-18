@@ -18,7 +18,7 @@
 <!---Body starts here--->
 
 <body>
-  <h4 align="left"><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="https://media4.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47sg1h99p26v8wub6qpykho2i36l1622miyiar5vab&rid=giphy.gif&ct=s" alt="Coder Cat" width=25px height=25px/>_About Me_</b></h4>
+  <h4 align="left"><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="https://media4.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47sg1h99p26v8wub6qpykho2i36l1622miyiar5vab&rid=giphy.gif&ct=s" alt="Coder Cat" width=25px height=25px/>_About Me_</b></h4>
   
    <div><img align="left" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="300" height="300"/></div>
 
