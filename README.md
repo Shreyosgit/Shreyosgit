@@ -14,8 +14,7 @@
 <!---Body starts here--->
 
 <body>
-  <h4 align="center"><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;👨‍💻_About Me_</b>
-  </h4>
+  <h4 align="right"><b>👨‍💻_About Me_&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;</b></h4>
   
    <div><img align="left" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="300" height="300" background="white"/></div>
   
