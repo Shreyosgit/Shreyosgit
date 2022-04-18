@@ -2,7 +2,7 @@
  <div><p align="center"><img src="https://media3.giphy.com/media/S5JSwmQYHOGMo/giphy.gif?cid=ecf05e47m4amwi8wbrga0o8c1kq8y9mif4czsrcgx5mjruqm&rid=giphy.gif&ct=s" height=190px width=255px />
   </p></div>--->
 
-<h1 style="text-align:center;font-family:Helvetica; color: white; " align="center">
+<h1 style="font-size:100px;text-align:center;font-family:Helvetica; color: white; " align="center">
   <img src="https://media3.giphy.com/media/O7idAw0IBgPWB5pMhT/giphy.gif?cid=790b7611f75bb1f3fe83e4092b0f3c0dc34dd974106f227a&rid=giphy.gif&ct=s" width="38" height="38" frameBorder="0">
   I'm Shreyos Ghosh
   <img src="https://i.giphy.com/media/tJ8BAfobT0piXEwdW1/giphy.webp" width="37" height="37" frameBorder="0">
@@ -36,12 +36,6 @@
  <a href="mailto:shreyosghosh279@gmail.com">
          <img alt="Gmail" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"
          width="18" height="17"></a></li>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
