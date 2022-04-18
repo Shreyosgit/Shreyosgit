@@ -26,11 +26,11 @@
 <!--- adopted markdown --->
 
 
-- 🔭 I’m currently working on <img src=C.png width="22" height="22" href="https://github.com/Shreyosgit/Snake-Game"/>
+- 🔭 I’m currently working on <img src="https://banner2.cleanpng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" width="21" height="21" href="https://github.com/Shreyosgit/Snake-Game"/>
 
 - 🌱 I’m currently learning **basic stuff**
 
-- 📫 How to reach me <img src=Gmail.png width="22" height="22" href="https:www.shreyosghosh279@gmail.com"/>
+- 📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="21" href="https:www.shreyosghosh279@gmail.com"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
