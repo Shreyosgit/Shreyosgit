@@ -26,11 +26,13 @@
 <!--- adopted markdown --->
 
 <br/><br/>
-<li align="center" align="justify">🔭 I’m currently working on <img src="https://media2.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=ecf05e471v857r946vfv4jlxq61s1f9uua2y9jqxlic9q7yq&rid=giphy.gif&ct=s" width="20" height="20"/><a href="https://github.com/Shreyosgit/Snake-Game">here</a></li>
+<li align="center" align="justify">🔭 I’m currently working on <img src="https://media2.giphy.com/media/3oKIPCohynIR4gBdhm/giphy.gif?cid=ecf05e471v857r946vfv4jlxq61s1f9uua2y9jqxlic9q7yq&rid=giphy.gif&ct=s" width="20" height="20"/>
+ <u><a href="https://github.com/Shreyosgit/Snake-Game">here</a></u>
+</li>
 <br/>
-<li align="center">🌱 I’m currently learning **basic stuff**</li>
+<li align="center">🌱 I’m currently learning <<basic stuff>></li>
 <br/>
-<li align="center">📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="20" href="https:www.shreyosghosh279@gmail.com"</li>
+<li align="center">📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="20" href=""</li>
 <br/>
 <br/>
 <br/>
