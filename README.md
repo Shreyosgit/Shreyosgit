@@ -1,6 +1,6 @@
-<div><p align="center"><img src="https://media3.giphy.com/media/S5JSwmQYHOGMo/giphy.gif?cid=ecf05e47m4amwi8wbrga0o8c1kq8y9mif4czsrcgx5mjruqm&rid=giphy.gif&ct=s" height=190px width=255px />
-  </p></div>
-<!---
+<!--- <div><p align="center"><img src="https://media3.giphy.com/media/S5JSwmQYHOGMo/giphy.gif?cid=ecf05e47m4amwi8wbrga0o8c1kq8y9mif4czsrcgx5mjruqm&rid=giphy.gif&ct=s" height=190px width=255px />
+  </p></div>--->
+
 <h1 style="text-align:center;font-family:Helvetica; color: white; " align="center">
   <img src="https://media3.giphy.com/media/O7idAw0IBgPWB5pMhT/giphy.gif?cid=790b7611f75bb1f3fe83e4092b0f3c0dc34dd974106f227a&rid=giphy.gif&ct=s" width="38" height="38" frameBorder="0">
   I'm Shreyos Ghosh
@@ -15,7 +15,7 @@
 </h3>
 
 <!---Body starts here--->
-<!---
+
 <body>
   <h4 align="justify"><b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="https://media4.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47sg1h99p26v8wub6qpykho2i36l1622miyiar5vab&rid=giphy.gif&ct=s" alt="Coder Cat" width=25px height=25px/>_About Me_</b></h4>
   
@@ -23,4 +23,3 @@
   
   <p>Currently I'm learning</p>
 </body>
---->
