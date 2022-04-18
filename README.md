@@ -18,7 +18,7 @@
 <!---Body starts here--->
 
 <body>
- <div><img align="left" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="310" height="310"/></div>
+ <div><img align="left" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=790b76119e9e14997839c4383da6606fb5befea40a39170a&rid=giphy.gif&ct=g" alt="Relaxed Coder" width="315" height="315"/></div>
 
 </body>
 <br/>
