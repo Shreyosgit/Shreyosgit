@@ -32,7 +32,10 @@
 <br/>
 <li align="center">🌱 I’m currently learning <<basic stuff>></li>
 <br/>
-<li align="center">📫 How to reach me <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="21" height="20" href="mailto:shreyosghosh279@gmail.com"</li>
+<li align="center">📫 How to reach me</li>
+ <a href="mailto:shreyosghosh279@gmail.com">
+         <img alt="Gmail" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"
+         width="18" height="18"></a>
 <br/>
 <br/>
 <br/>
