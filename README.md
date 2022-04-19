@@ -22,6 +22,7 @@
 
 </body>
 <br/>
+<br/>
 <h3 align="center"><b><img src="https://media4.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif?cid=ecf05e47sg1h99p26v8wub6qpykho2i36l1622miyiar5vab&rid=giphy.gif&ct=s" alt="Coder Cat" width=25px height=25px/>_About Me_</b></h3>
 <!--- adopted markdown --->
 
